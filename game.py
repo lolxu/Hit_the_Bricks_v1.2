@@ -200,7 +200,7 @@ class ModelCenter:
             print "#                         #"
             print "###########################"
             print ""
-            playsound('file:///Users/xujiang/Desktop/GG.mp3')
+            playsound('GG.mp3')
             
             
         
