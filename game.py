@@ -272,7 +272,7 @@ class ModelCenter:
             print "#                    #"
             print "######################"
             print ""
-            playsound('file:///Users/xujiang/Desktop/GG.mp3')
+            playsound('GG.mp3')
             
         self.to_draw.remove(bullet)
         self.bullets.remove(bullet)
